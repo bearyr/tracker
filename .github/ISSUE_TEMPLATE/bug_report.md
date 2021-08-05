@@ -20,13 +20,14 @@ Notes:
 ### Bug Report
 
 **Checklist**
+<!-- Place an X between the brackets to check off a point -->
 - [ ] This is **NOT** a duplicate issue
 - [ ] This issue does not reveal any game breaking glitches or exploits
 - [ ] All the information provided is accurate
 - [ ] This issue does not contain any sensitive or private, including personal, information
 
 **Location**
-<!-- Where does this bug occur? The server, the discord, or other. If other please specify where-->
+<!-- Where does this bug occur? The server, the discord, or other. If other please specify where -->
 
 **Description**
 <!-- What happened -->
